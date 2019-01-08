@@ -3,4 +3,4 @@
   connection: local
   tasks:
   - name: check out a git repository
-    git: repo=git://foosball.example.org/path/to/repo.git dest=/local/path
+    command: mkdir hello
